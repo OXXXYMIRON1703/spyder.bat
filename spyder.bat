@@ -1,0 +1,1 @@
+"C:\Program Files\Spyder\Python\pythonw.exe" "C:\Program Files\Spyder\Spyder.launch.pyw" "%1"
